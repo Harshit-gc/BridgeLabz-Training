@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Volumeofcylinder {
+public class VolumeOfCylinder {
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
             float radius = input.nextFloat();

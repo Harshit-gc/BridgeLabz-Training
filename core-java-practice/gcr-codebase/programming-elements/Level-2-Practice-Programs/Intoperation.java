@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Intoperation {
+public class IntOperation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int a = input.nextInt();

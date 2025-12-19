@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Distanceinyards {
+public class DistanceInYards {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         float distance = input.nextFloat();

@@ -1,4 +1,4 @@
-public class kmtomiles {
+public class KmToMiles {
     public static void main(String[] args) {
         float distance = 10.8f; // In Kilometer
         float miles = distance*0.62f; 

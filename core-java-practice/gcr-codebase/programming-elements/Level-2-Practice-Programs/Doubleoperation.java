@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Doubleoperation {
+public class DoubleOperation {
      public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double a = input.nextDouble();

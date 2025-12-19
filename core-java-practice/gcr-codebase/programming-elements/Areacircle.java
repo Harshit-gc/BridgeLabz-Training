@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Areacircle {
+public class AreaCircle {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         float radius = input.nextFloat();

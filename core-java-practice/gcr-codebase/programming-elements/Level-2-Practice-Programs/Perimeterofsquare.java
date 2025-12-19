@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Perimeterofsquare {
+public class PerimeterOfSquare {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         float side = input.nextFloat();

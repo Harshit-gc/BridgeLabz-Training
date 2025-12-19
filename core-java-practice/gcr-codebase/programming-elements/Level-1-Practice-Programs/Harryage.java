@@ -1,8 +1,8 @@
-public class Harryage {
+public class HarryAge {
     public static void main(String[] args) {
-        int birthyear = 2000;
-        int cuurentyear = 2024;
-        int Age = cuurentyear-birthyear;
-        System.out.println("Harry's age in 2024 is "+Age);
+        int birthYear = 2000;
+        int cuurentYear = 2024;
+        int age = cuurentYear-birthYear;
+        System.out.println("Harry's age in 2024 is "+age);
     }
 }

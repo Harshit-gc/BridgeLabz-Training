@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Heightincm {
+public class HeightInCm {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         float height = input.nextFloat();
