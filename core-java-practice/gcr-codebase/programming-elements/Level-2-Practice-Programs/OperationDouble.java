@@ -1,11 +1,11 @@
 import java.util.*;
 
-public class IntOperation {
-    public static void main(String[] args) {
+public class OperationDouble {
+     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int a = input.nextInt();
-        int b = input.nextInt();
-        int c = input.nextInt();
+        double a = input.nextDouble();
+        double b = input.nextDouble();
+        double c = input.nextDouble();
         System.out.println("The results of Int Operations are "+(a + b * c)+", "+(a * b + c)+", "+(c + a / b)+" and "+(a % b + c));
     }
 }

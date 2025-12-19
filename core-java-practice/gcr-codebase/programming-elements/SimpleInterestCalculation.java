@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SimpleInterest {
+public class SimpleInterestCalculation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int p = input.nextInt(); //Principal

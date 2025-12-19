@@ -1,10 +1,10 @@
 import java.util.*;
 
-public class Miles {
+public class UserInputDistanceInMiles {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int distance = input.nextInt();
-        float miles = distance*0.621371f;
+        double distance = input.nextDouble();
+        double miles = distance*0.621371;
         System.out.println(miles);
     }
 }

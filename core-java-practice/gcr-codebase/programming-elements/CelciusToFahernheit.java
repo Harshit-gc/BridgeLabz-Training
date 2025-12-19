@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Fahernheit {
+public class CelciusToFahernheit {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         float temp = input.nextFloat();

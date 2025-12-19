@@ -1,4 +1,4 @@
-public class UniversityFees {
+public class FeesCalculation {
     public static void main(String[] args) {
         int fee = 125000;
         int discount = 10;

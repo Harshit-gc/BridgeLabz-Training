@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HandShakes {
+public class StudentsHandshakes {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int students = input.nextInt();

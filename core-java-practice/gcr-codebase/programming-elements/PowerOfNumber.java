@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Power {
+public class PowerOfNumber {
     public static int power(int base, int exponent){
         if(exponent==0){
             return 1;

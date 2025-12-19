@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UserInputUniversityFees {
+public class UserInputFeesCalculation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int fee = input.nextInt();
