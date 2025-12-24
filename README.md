@@ -16,6 +16,7 @@ BridgeLabz-Training/
 |   ├── gcr-codebase/
 |   |   ├── arrays/
 |   |   ├── control-flow/
+|   |   ├── methods/
 |   |   ├── programming-elements/
 |   |   └── strings/
 |   |
@@ -65,4 +66,9 @@ BridgeLabz-Training/
 
 ###  23-Dec-2025 (Tuesday)
 - Solved and Submitted String Problems.
+- Studied SDLC Documentation.
 - Solved 2 Scenario based problems.
+
+### 24-Dec-2025 (Wednesday)
+- Studied Methods documentation.
+- Solved Methods Level 1 & 2 Problems.
