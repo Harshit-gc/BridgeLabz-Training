@@ -19,7 +19,7 @@ public class LineComparisionComputation {
 		System.out.print("Enter Co-ordinates for Line 1: ");
 		Double length1 = findLength();
 		System.out.println("Length Of Line1: " + length1);
-		System.out.print("Enter Co-ordinates for Line 1: ");
+		System.out.print("Enter Co-ordinates for Line 2: ");
 		Double length2 = findLength();
 		System.out.println("Length Of Line2: " + length2);
 
