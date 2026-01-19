@@ -16,6 +16,7 @@ BridgeLabz-Training/
 |   ├── gcr-codebase/
 |   |   ├── arrays/
 |   |   ├── control-flow/
+|   |   ├── extras/
 |   |   ├── methods/
 |   |   ├── programming-elements/
 |   |   └── strings/
@@ -24,7 +25,72 @@ BridgeLabz-Training/
 |   |   └── leetcode-questions/
 |   | 
 |   └── scenario-based/
-|       └── scenario-based-questions/
+|       ├── BusRouteDistanceTracker.java
+|       ├── CoffeeCounterChronicles.java
+|       ├── DigitalWatch.java
+|       ├── ElectionBoothManager.java
+|       ├── EmployeeWageComputation.java
+|       ├── FestivalLuckyDraw.java
+|       ├── LineComparisionComputation.java
+|       ├── MayaBMITracker.java
+|       ├── MetroFareDeduction.java
+|       ├── MovieTicketBooking.java
+|       ├── RohanLibraryFineCalculator.java
+|       ├── SandeepFitnessTracker.java
+|       └── SnakesAndLadders.java
+|
+├── oops-practice
+|   |
+|   ├── gcr-codebase/
+|   |   ├── class-and-object
+|   |   ├── constructors
+|   |   ├── encapsulation-polymorphism
+|   |   ├── inheritance
+|   |   ├── keywords-instanceof
+|   |   └── object-oriented-design
+|   |
+|   ├── leet-code-codebase
+|   |   └── leetcode-questions/
+|   |
+|   └── scenario-based
+|       ├── digital_wallet_system
+|       ├── ecommerce_management_system
+|       ├── flight_booking_system
+|       ├── hospital_management_system
+|       ├── hotel_reservation_system
+|       ├── inventory_management_system
+|       ├── online_examinantion_system
+|       ├── online_voting_system
+|       ├── student_course_registration_system
+|       ├── vehicle_rental
+|       ├── BankAccountManager.java
+|       ├── CabBooking.java
+|       ├── CafeteriaMenuApp.java
+|       ├── EduQuiz.java
+|       ├── GeneratorForFreelancers.java
+|       ├── LibraryManagementSystem.java
+|       ├── MathematicalOperation.java
+|       ├── OnlineBankingSystem.java
+|       ├── OnlineQuizPlatform.java
+|       ├── PhoneApp.java
+|       ├── SentenceFormatter.java
+|       ├── SentenceWordCount.java
+|       ├── StudentReportGenerator.java
+|       ├── StudentScore.java
+|       ├── StudentScoreAnalyzer.java
+|       └── TemperatureAnalyzer.java
+|
+├── dsa-practice
+|   |
+|   └── gcr-codebase
+|       ├── linkedlist
+|       ├── searching
+|       ├── sorting
+|       └── stack_queue_hashmap 
+|
+├── review
+|   ├── ArraySort.java
+|   └── ReverseString.java
 |
 └── README.md
 ```
@@ -52,10 +118,11 @@ BridgeLabz-Training/
 - Solved and submitted Control Flow practice problems.
 
 ###  20-Dec-2025 (Saturday)
-- Solved 2 Scenario based problems.
 - Studied Arrays documentation.
 - Solved and Submitted Arrays problems.
-
+- Solved Scenario Based Problems 
+  - The Coffee Counter Chronicles
+  - Maya’s BMI Fitness Tracker
 ---
 
 ## 📅 Week 2 Progress
@@ -67,8 +134,132 @@ BridgeLabz-Training/
 ###  23-Dec-2025 (Tuesday)
 - Solved and Submitted String Problems.
 - Studied SDLC Documentation.
-- Solved 2 Scenario based problems.
+- Solved Scenario based problems.
+  - Election Booth Manager ️
+  - Metro Smart Card Fare Deduction
 
 ### 24-Dec-2025 (Wednesday)
 - Studied Methods documentation.
 - Solved Methods Level 1 & 2 Problems.
+
+### 26-Dec-2025 (Friday)
+- Submitted Methods Problems.
+- Studied Built-in Functions and Date and Time documentation.
+- Solved Scenario based problems.
+  - Bus Route Distance Tracker
+  - Festival Lucky Draw 
+
+### 27-Dec-2025 (Saturday)
+- Solve and Submitted Extras String Problems.
+---
+
+## 📅 Week 3 Progress
+
+### 29-Dec-2025 (Monday)
+- Solved and Submitted extras Built-in functions assignment.
+- Studied String Handling Documentation.
+- Solved Scenario Based Problems
+  - Sandeep’s Fitness Challenge Tracker
+  - Movie Ticket Booking App
+  - Rohan’s Library Reminder App
+  - Digital Watch Simulation
+
+### 30-Dec-2025 (Tuesday)
+- Solved Employee Wage Computation Problem
+- Solved Line Comparision Problem
+- Solved Snake And Ladder Problem
+- Studied Object Oriented Fundamental Documentation.
+
+### 31-Dec-2025 (Wednesday)
+- Solve and Submitted Class and Object Problems.
+- Studied Java Constructors Documentation
+
+### 1-Jan-2026 (Thursday)
+- Solve and Submitted Constructors Assignment.
+- Studied this, static, final keyword documentation.
+- Solved Scenario Based Problems:
+  - Sentence Formatter
+  - Sentence Word Count
+
+### 2-Jan-2026 (Friday)
+- Solve and Submitted this, static, final keyword Problems.
+- Studied Object Modelling, Class Diagram Documentation.
+- Solve and Submitted Object Modelling, Class Diagram Problems.
+- Solved Scenario Based Problems:
+  - Temperature Analyzer
+  - Score Analyzer
+
+### 3-Jan-2026 (Saturday)
+- Studied amd Solve Inheritance Documnetation
+- Solved Scenario Based Problems:
+  - Library Management System
+  - EduQuiz – Student Quiz Grader
+  - Bank Account Manager
+  - Mathematical Operations
+---
+
+## 📅 Week 4 Progress
+
+### 5-Jan-2026 (Monday)
+- Studied and Solved Encapsulation Interface Problems.
+- Solved Scenario Based Problems:  
+  - Invoice Generator for Freelancers
+  - Cafeteria Menu App
+  - Student Score Analyzer
+
+### 6-Jan-2026 (Tuesday)
+-  Solved and Submitted Scenario Based Problems: 
+    - Phone Contact Organizer
+    - Online Quiz Platform – Result Processor
+    - Student Report Generator
+
+### 7-Jan-2026 (Wednesday)
+- Studied Data Structures Documentation
+- Solved Scenario Based Problems: 
+    - Cab Booking System
+    - Online Banking System
+
+### 8-Jan-2026 (Thursday)
+- Solve and Submitted Data Structures.
+
+### 9-Jan-2026 (Friday)
+- Studied Stack, Queue, Hashmap documentation
+- Solve Scenario Based Problems: 
+    - Hospital Patient Management System
+    - Vehicle Rental Application
+    - Flight Booking System
+---
+
+## 📅 Week 5 Progress
+
+### 12-Jan-2026 (Monday)
+- Solved and Submitted Scenario Based Problems: 
+    - E-Commerce Order Management System
+    - Student Course Registration System
+    - Inventory Management System
+
+### 13-Jan-2026 (Tuesday)
+- Solved Scenario Based Problems:
+  - Hotel Reservation System
+  - Online Voting System
+  - Digital Wallet System
+
+### 14-Jan-2026 (Wednesday)
+- Submitted Stack, Queue, Hashmap Problems.
+- Studied Sorting Algorithms Documentation.
+
+### 15-Jan-2026 (Thursday)
+- Learn Sorting and searching algo
+- Solved scenario based question on Bubble Sort
+- Solved scenario based question on Insertion Sort
+
+### 16-Jan-2026 (Friday)
+- Solved scenario based question on Quick Sort
+- Solved scenario based question on Selection Sort
+- Solved scenario based question on Counting Sort
+
+### 17-Jan-2026 (Saturday)
+- Studied StringBuilder, StringBuffer, FileReader, InputStreamReader,Linear Search and Binary Search
+- Solved problems related StringBuilder, StringBuffer, FileReader, InputStreamReader,Linear Search and Binary Search
+
+## 📅 Week 6 Progress
